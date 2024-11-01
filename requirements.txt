@@ -2,4 +2,4 @@ torch
 trl
 datasets
 transformers
-
+jupyterlab
